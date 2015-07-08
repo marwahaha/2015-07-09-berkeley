@@ -96,7 +96,4 @@ desire to work more efficiently, all scientists can benefit from testing.
 
 ## Other Resources
 
-*   [Motivation](motivation.html)
 *   [Reference](reference.html)
-*   [Discussion](discussion.html)
-*   [Instructor's Guide](instructors.html)
